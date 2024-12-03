@@ -1,0 +1,13 @@
+Steps to complete:
+    Generate ObjectProcessor
+        - it should process each string which should be passed to the ObjectProcessor
+        - it should support mid-flow datas
+        - it should draw objects (Snake, Other snake, Food, Field)
+        - in case of F object:
+            - it should draw a Field (cells)
+        - on other cases:
+            - it should draw each cell
+
+    Add head for other snake
+    refactor a code
+    Optional: create UI for server lookup
